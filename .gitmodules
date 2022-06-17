@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "move"]
+	path = move
+	url = https://gitlab.com/bartk/move
+	shallow = true
+	registered = true
+[submodule "moveWindSpeed"]
+	path = moveWindSpeed
+	url = https://gitlab.com/bartk/movewindspeed
+	shallow = true
+	registered = true
+[submodule "starsTileServer"]
+	path = starsTileServer
+	url = https://gitlab.com/bartk/starstileserver
+	shallow = true
+	registered = true

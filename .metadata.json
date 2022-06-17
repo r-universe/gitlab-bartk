@@ -1,0 +1,14 @@
+[
+  {
+    "package": "move",
+    "oncran": true
+  },
+  {
+    "package": "moveWindSpeed",
+    "oncran": true
+  },
+  {
+    "package": "starsTileServer",
+    "oncran": true
+  }
+]
